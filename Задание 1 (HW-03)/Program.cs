@@ -66,8 +66,6 @@ namespace Задание_1__HW_03_
                     Console.WriteLine(e.Message);
                 }
             }
-
-
         }
     }
 }
