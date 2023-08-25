@@ -10,6 +10,9 @@ namespace WorkWithFiles
     {
         static void Main(string[] args)
         {
+            Console.WriteLine($"время сейчас: \n\t{DateTime.Now}");
+            Console.WriteLine(DateTime.Now);
+
             Console.WriteLine("axaxa1");
             Console.ReadKey();
         }
